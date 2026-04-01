@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        const url = window.location.href;
+        const origin = window.location.origin + '/';
+        const encoded = url.slice(origin.length);
+        window.location.replace(origin + '?redirect=' + encodeURIComponent(encoded));
+    </script>
+</head>
+</html>

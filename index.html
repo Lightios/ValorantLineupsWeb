@@ -39,6 +39,20 @@
             }
         });
     </script>
+    <script>
+        // If we were redirected from 404.html, restore the original URL
+        // so the browser shows the right path and Kotlin can read ?code=
+        const params = new URLSearchParams(window.location.search);
+        const redirect = params.get('redirect');
+        if (redirect) {
+            // Replace current history entry with the original URL
+            window.history.replaceState(
+                null,
+                '',
+                '/' + decodeURIComponent(redirect)
+            );
+        }
+    </script>
 </head>
 <body style="text-align: center; align-content: center">
 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 50 50" role="presentation">
