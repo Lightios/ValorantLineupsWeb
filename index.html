@@ -46,11 +46,7 @@
         const redirect = params.get('redirect');
         if (redirect) {
             // Replace current history entry with the original URL
-            window.history.replaceState(
-                null,
-                '',
-                '/' + decodeURIComponent(redirect)
-            );
+            window.history.replaceState(null, null, window.location.pathname);
         }
     </script>
 </head>
