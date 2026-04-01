@@ -4,7 +4,9 @@
     <script>
         const url = window.location.href;
         const origin = window.location.origin + '/ValorantLineupsWeb/';
-        const encoded = url.slice(origin.length);
+        const path = window.location.pathname.replace(/^\/ValorantLineupsWeb\/?/, '');
+        const encoded = path + window.location.search + window.location.hash;
+        
         window.location.replace(origin + '?redirect=' + encodeURIComponent(encoded));
     </script>
 </head>
