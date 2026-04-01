@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ValorantLineupsKMP</title>
+    <link type="text/css" rel="stylesheet" href="styles.css">
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-analytics.js";
+        import { getAuth, signInWithCustomToken, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-auth.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyBFe15XsEt_x0lvgubl2GVcFfs_IS1yjd8",
+            authDomain: "valorant-lineups-99a29.firebaseapp.com",
+            projectId: "valorant-lineups-99a29",
+            storageBucket: "valorant-lineups-99a29.firebasestorage.app",
+            messagingSenderId: "846898250306",
+            appId: "1:846898250306:web:22e6f0a866eb1c8df3e3db",
+            measurementId: "G-T980BT30KD"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+        const auth = getAuth(app);
+
+        // Called by Kotlin via JS interop to sign in with the custom token
+        // returned by your Cloud Function
+        window.firebaseSignIn = (token) => signInWithCustomToken(auth, token);
+
+        // Called by Kotlin to get the current user's Firebase UID synchronously
+        window.firebaseGetCurrentUid = () => auth.currentUser?.uid ?? null;
+
+        // Notifies Kotlin when auth state changes (login, logout, token refresh).
+        // Kotlin sets this callback via: window.firebaseAuthCallback = (uid) => { ... }
+        onAuthStateChanged(auth, (user) => {
+            if (window.firebaseAuthCallback) {
+                window.firebaseAuthCallback(user ? user.uid : null);
+            }
+        });
+    </script>
+</head>
+<body style="text-align: center; align-content: center">
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 50 50" role="presentation">
+    <circle cx="25" cy="25" r="20" stroke="#ccc" stroke-width="4" fill="none"/>
+    <circle cx="25" cy="25" r="20" stroke="#333" stroke-width="4" fill="none" stroke-linecap="round"
+            stroke-dasharray="90 125">
+        <animateTransform attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="1s"
+                          repeatCount="indefinite"/>
+    </circle>
+</svg>
+<script type="application/javascript" src="composeApp.js"></script>
+</body>
+</html>
