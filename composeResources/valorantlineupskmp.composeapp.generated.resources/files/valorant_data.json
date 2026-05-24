@@ -1,0 +1,289 @@
+{
+    "maps": [
+        {
+            "id": 1,
+            "name": "Abyss",
+            "sites": 2,
+            "ranked_pool": null
+        },
+        {
+            "id": 2,
+            "name": "Ascent",
+            "sites": 2,
+            "ranked_pool": 1
+        },
+        {
+            "id": 3,
+            "name": "Bind",
+            "sites": 2,
+            "ranked_pool": null
+        },
+        {
+            "id": 4,
+            "name": "Breeze",
+            "sites": 2,
+            "ranked_pool": 1
+        },
+        {
+            "id": 5,
+            "name": "Fracture",
+            "sites": 2,
+            "ranked_pool": 1
+        },
+        {
+            "id": 6,
+            "name": "Haven",
+            "sites": 3,
+            "ranked_pool": 1
+        },
+        {
+            "id": 7,
+            "name": "Icebox",
+            "sites": 2,
+            "ranked_pool": null
+        },
+        {
+            "id": 8,
+            "name": "Lotus",
+            "sites": 3,
+            "ranked_pool": 1
+        },
+        {
+            "id": 9,
+            "name": "Pearl",
+            "sites": 2,
+            "ranked_pool": 1
+        },
+        {
+            "id": 10,
+            "name": "Split",
+            "sites": 2,
+            "ranked_pool": 1
+        },
+        {
+            "id": 11,
+            "name": "Sunset",
+            "sites": 2,
+            "ranked_pool": null
+        }
+    ],
+    "agents": [
+        {
+            "id": 1,
+            "name": "Viper"
+        },
+        {
+            "id": 2,
+            "name": "Brimstone"
+        },
+        {
+            "id": 3,
+            "name": "Killjoy"
+        },
+        {
+            "id": 4,
+            "name": "KAYO"
+        },
+        {
+            "id": 5,
+            "name": "Gekko"
+        },
+        {
+            "id": 6,
+            "name": "Sova"
+        },
+        {
+            "id": 7,
+            "name": "Fade"
+        },
+        {
+            "id": 8,
+            "name": "Sage"
+        },
+        {
+            "id": 9,
+            "name": "Yoru"
+        },
+        {
+            "id": 10,
+            "name": "Cypher"
+        },
+        {
+            "id": 12,
+            "name": "Vyse"
+        }
+    ],
+    "abilities": [
+        {
+            "id": 1,
+            "agent_id": 1,
+            "name": "Snake Bite",
+            "code": "VIPERC",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 1,
+            "physics_bit_value": 1
+        },
+        {
+            "id": 2,
+            "agent_id": 1,
+            "name": "Poison Cloud",
+            "code": "VIPERQ",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 3,
+            "agent_id": 1,
+            "name": "Toxic Screen",
+            "code": "VIPERE",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 4,
+            "agent_id": 3,
+            "name": "Alarm Bot and Turret",
+            "code": "KILLJOYC",
+            "ability_type": "SETUP",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 5,
+            "agent_id": 3,
+            "name": "Nanoswarm",
+            "code": "KILLJOYE",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 2,
+            "physics_bit_value": 1
+        },
+        {
+            "id": 6,
+            "agent_id": 7,
+            "name": "Haunt",
+            "code": "FADEE",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 7,
+            "agent_id": 8,
+            "name": "Slow Orb",
+            "code": "SAGEQ",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 8,
+            "agent_id": 8,
+            "name": "Barrier Orb",
+            "code": "SAGEC",
+            "ability_type": "SETUP",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 9,
+            "agent_id": 6,
+            "name": "Shock Bolt",
+            "code": "SOVAQ",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 3,
+            "physics_bit_value": 1
+        },
+        {
+            "id": 10,
+            "agent_id": 6,
+            "name": "Recon Bolt",
+            "code": "SOVAE",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 11,
+            "agent_id": 5,
+            "name": "Mosh Pit",
+            "code": "GEKKOC",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 2,
+            "physics_bit_value": 4
+        },
+        {
+            "id": 12,
+            "agent_id": 9,
+            "name": "Gatecrash",
+            "code": "YORUE",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 13,
+            "agent_id": 10,
+            "name": "Cyber Cage",
+            "code": "CYPHERQ",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 14,
+            "agent_id": 10,
+            "name": "Trapwire and Spycam",
+            "code": "CYPHERE",
+            "ability_type": "SETUP",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 16,
+            "agent_id": 4,
+            "name": "Zeropoint",
+            "code": "KAYOE",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 17,
+            "agent_id": 4,
+            "name": "Fragment",
+            "code": "KAYOC",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 2,
+            "physics_bit_value": 2
+        },
+        {
+            "id": 18,
+            "agent_id": 2,
+            "name": "Incendiary",
+            "code": "BRIMSTONEQ",
+            "ability_type": "POSTPLANT",
+            "physics_group_id": 1,
+            "physics_bit_value": 2
+        },
+        {
+            "id": 19,
+            "agent_id": 12,
+            "name": "Razorvine/Shear/Arc Rose",
+            "code": "VYSEE",
+            "ability_type": "SETUP",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        },
+        {
+            "id": 20,
+            "agent_id": 12,
+            "name": "Razorvine",
+            "code": "VYSEC",
+            "ability_type": "DEFAULT",
+            "physics_group_id": null,
+            "physics_bit_value": null
+        }
+    ]
+}
