@@ -315,8 +315,8 @@
             "map_id": 5,
             "ability_id": 6,
             "name": "B Defending 2",
-            "author": "QueenRon",
-            "description": "Aim like that. Run, then jump throw",
+            "author": "Lightios",
+            "description": "Aim at this corner. Jump and throw immediately",
             "position_desc": "",
             "is_premium": 0
         },
@@ -646,7 +646,7 @@
             "ability_id": 6,
             "name": "B Defending",
             "author": "QueenRon",
-            "description": "Aim at middle of lower pipe. Run, then jump and throw at the same time.",
+            "description": "Aim at middle of center pipe. Run, when reaching stairs jump and throw at the same time.",
             "position_desc": "",
             "is_premium": 1
         },
@@ -3539,6 +3539,256 @@
             "description": null,
             "position_desc": null,
             "is_premium": 0
+        },
+        {
+            "id": 379,
+            "map_id": 4,
+            "ability_id": 3,
+            "name": "B Defending",
+            "author": null,
+            "description": "Aim at this corner",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 380,
+            "map_id": 4,
+            "ability_id": 2,
+            "name": "B Defending",
+            "author": null,
+            "description": "Just right click",
+            "position_desc": "Stay a little away from the wall",
+            "is_premium": 0
+        },
+        {
+            "id": 381,
+            "map_id": 4,
+            "ability_id": 3,
+            "name": "A Defending",
+            "author": null,
+            "description": "Aim at this corner",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 382,
+            "map_id": 6,
+            "ability_id": 20,
+            "name": "A Attacking Window",
+            "author": "Lightios",
+            "description": "Aim at this circle",
+            "position_desc": "",
+            "is_premium": 0
+        },
+        {
+            "id": 384,
+            "map_id": 6,
+            "ability_id": 20,
+            "name": "A Attacking",
+            "author": null,
+            "description": "Match this part of HUD with this corner",
+            "position_desc": "",
+            "is_premium": 0
+        },
+        {
+            "id": 385,
+            "map_id": 9,
+            "ability_id": 6,
+            "name": "A Attacking  3",
+            "author": null,
+            "description": "Aim at this corner. Run, then jump throw",
+            "position_desc": "Stand a little away from this corner so you have space to run",
+            "is_premium": 0
+        },
+        {
+            "id": 386,
+            "map_id": 6,
+            "ability_id": 10,
+            "name": "C Defending 3",
+            "author": "Lightios",
+            "description": "Match left side of this bar with edge of this wall. Keep the wall's bar in the middle\r\nCharges: full\r\nBounces: 1",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 387,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "A Attacking 3",
+            "author": "Lightios",
+            "description": "Aim at this corner. Jump and throw at maximum height",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 388,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "A Attacking 4",
+            "author": "Lightios",
+            "description": "Aim at this corner. Run, and perform a jump throw being somewhere at middle of the stairs",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 389,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "A Attacking 5",
+            "author": "Lightios",
+            "description": "Aim at middle of this bar",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 390,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "B Attacking 3",
+            "author": "Lightios",
+            "description": "Aim at middle of this bar. Run, then perform instant jump throw",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 391,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "A Defending 3",
+            "author": "Lightios",
+            "description": "Aim here. Jump throw",
+            "position_desc": "",
+            "is_premium": 1
+        },
+        {
+            "id": 392,
+            "map_id": 4,
+            "ability_id": 6,
+            "name": "A Attacking 2",
+            "author": null,
+            "description": "Aim here. Jump throw",
+            "position_desc": "(make sure that this position is safe)",
+            "is_premium": 0
+        },
+        {
+            "id": 393,
+            "map_id": 4,
+            "ability_id": 6,
+            "name": "A Attacking 3",
+            "author": null,
+            "description": "Aim here. Run, then instant jump throw",
+            "position_desc": "(make sure that this position is safe)",
+            "is_premium": 0
+        },
+        {
+            "id": 394,
+            "map_id": 9,
+            "ability_id": 6,
+            "name": "A Defending 3",
+            "author": "",
+            "description": "Aim at this corner. Jump and throw at the same time",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 395,
+            "map_id": 2,
+            "ability_id": 10,
+            "name": "A Defending 3",
+            "author": "",
+            "description": "Place your top corner of shield icon here\r\nCharges: 2\r\nBounces: 2",
+            "position_desc": "",
+            "is_premium": 0
+        },
+        {
+            "id": 396,
+            "map_id": 6,
+            "ability_id": 10,
+            "name": "A Attacking 3",
+            "author": "",
+            "description": "Place your Q icon here\r\nCharges: 2\r\nBounces: 0",
+            "position_desc": "",
+            "is_premium": 0
+        },
+        {
+            "id": 397,
+            "map_id": 6,
+            "ability_id": 10,
+            "name": "C To A Defending",
+            "author": "Lightios",
+            "description": "Aim at center of this edge\r\nCharges: full\r\nBounces: 1",
+            "position_desc": "",
+            "is_premium": 0
+        },
+        {
+            "id": 398,
+            "map_id": 9,
+            "ability_id": 6,
+            "name": "Mid Defending",
+            "author": null,
+            "description": "Aim at top corner of his head. Jump and throw at the same time",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 399,
+            "map_id": 10,
+            "ability_id": 6,
+            "name": "A Attacking 6",
+            "author": "Lightios",
+            "description": "Aim at center of this thing. Jump and throw immediately",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 400,
+            "map_id": 2,
+            "ability_id": 6,
+            "name": "A Retake 2",
+            "author": "Lightios",
+            "description": "Aim at this leaf",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 401,
+            "map_id": 5,
+            "ability_id": 6,
+            "name": "B Retake",
+            "author": "Lightios",
+            "description": "Aim at green spot. You need to crouch",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 402,
+            "map_id": 5,
+            "ability_id": 6,
+            "name": "B Defending 3",
+            "author": null,
+            "description": "Aim at center of this edge. Run, then jump and throw immediately",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 403,
+            "map_id": 5,
+            "ability_id": 6,
+            "name": "B Defending 4",
+            "author": null,
+            "description": "Aim at center of this line",
+            "position_desc": null,
+            "is_premium": 0
+        },
+        {
+            "id": 404,
+            "map_id": 9,
+            "ability_id": 16,
+            "name": "B To A Defending 2",
+            "author": null,
+            "description": "Match top left corner of this rectangle with yellow corner",
+            "position_desc": null,
+            "is_premium": 0
         }
     ],
     "postplant_lineups": [
@@ -6115,6 +6365,32 @@
             "position_desc": "",
             "is_premium": 0,
             "physics_group_id": 1
+        },
+        {
+            "id": 212,
+            "map_id": 2,
+            "physics_bit_sum": 1,
+            "spike_position": "A Left",
+            "lineup_position": "AVineyard3",
+            "lineup_target": "ViperAVineyard31",
+            "author": "Lightios",
+            "description": "Aim at center of this edge",
+            "position_desc": null,
+            "is_premium": 0,
+            "physics_group_id": 1
+        },
+        {
+            "id": 213,
+            "map_id": 2,
+            "physics_bit_sum": 1,
+            "spike_position": "A Left",
+            "lineup_position": "ALobby",
+            "lineup_target": "ViperALobby1",
+            "author": "Lightios",
+            "description": "Aim this edge, at height of this corner",
+            "position_desc": null,
+            "is_premium": 0,
+            "physics_group_id": 1
         }
     ],
     "setup_lineups": [
@@ -6125,7 +6401,8 @@
             "name": "A Defending Trap",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 2,
@@ -6134,7 +6411,8 @@
             "name": "A Defending Trap 2",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 3,
@@ -6143,7 +6421,8 @@
             "name": "A Defending Camera",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 4,
@@ -6152,7 +6431,8 @@
             "name": "B Defending Trap",
             "author": "pfyzo",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 5,
@@ -6161,7 +6441,8 @@
             "name": "B Defending Trap 2",
             "author": "pfyzo",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 6,
@@ -6170,7 +6451,8 @@
             "name": "B Defending Trap 3",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 7,
@@ -6179,7 +6461,8 @@
             "name": "B Defending Trap 4",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 8,
@@ -6188,7 +6471,8 @@
             "name": "B Defending Camera",
             "author": "pfyzo",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 9,
@@ -6197,7 +6481,8 @@
             "name": "A Defending Trap",
             "author": "nitr0",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 10,
@@ -6206,7 +6491,8 @@
             "name": "A Defending Trap 2",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 11,
@@ -6215,7 +6501,8 @@
             "name": "A Defending Trap 3",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 12,
@@ -6224,7 +6511,8 @@
             "name": "A Defending Trap 4",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 13,
@@ -6233,7 +6521,8 @@
             "name": "A Defending Trap 5",
             "author": "vlrtips",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 14,
@@ -6242,7 +6531,8 @@
             "name": "A Defending Camera",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 15,
@@ -6251,7 +6541,8 @@
             "name": "A Defending Camera 2",
             "author": "-",
             "description": "Stand on the boxes and jump to place it higher",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 16,
@@ -6260,7 +6551,8 @@
             "name": "B Defending Trap",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 17,
@@ -6269,7 +6561,8 @@
             "name": "B Defending Trap 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 18,
@@ -6278,7 +6571,8 @@
             "name": "B Defending Trap 3",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 19,
@@ -6287,7 +6581,8 @@
             "name": "B Defending Trap 4",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 20,
@@ -6296,7 +6591,8 @@
             "name": "B Defending Trap 5",
             "author": "vlrtips",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 21,
@@ -6305,7 +6601,8 @@
             "name": "B Defending Camera",
             "author": "nitr0",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 22,
@@ -6314,7 +6611,8 @@
             "name": "B Defending Camera 2",
             "author": "lineups.fun",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 23,
@@ -6323,7 +6621,8 @@
             "name": "A Defending Turret",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 24,
@@ -6332,7 +6631,8 @@
             "name": "A Defending Bot",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 25,
@@ -6341,7 +6641,8 @@
             "name": "B Defending Turret",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 26,
@@ -6350,7 +6651,8 @@
             "name": "B Defending Bot",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 27,
@@ -6359,7 +6661,8 @@
             "name": "A Attacking",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 28,
@@ -6368,7 +6671,8 @@
             "name": "B Attacking",
             "author": "1 Tap Valorant",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 29,
@@ -6377,7 +6681,8 @@
             "name": "B Attacking 2",
             "author": "1 Tap Valorant",
             "description": "Ascend yourself",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 30,
@@ -6386,7 +6691,8 @@
             "name": "A Defending",
             "author": "1 Tap Valorant",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 31,
@@ -6395,7 +6701,8 @@
             "name": "A Defending 2",
             "author": "1 Tap Valorant",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 32,
@@ -6404,7 +6711,8 @@
             "name": "B Defending",
             "author": "1 Tap Valorant",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 33,
@@ -6413,7 +6721,8 @@
             "name": "A Defending Trap",
             "author": "scr1m",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 34,
@@ -6422,7 +6731,8 @@
             "name": "A Defending Trap 2",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 35,
@@ -6431,7 +6741,8 @@
             "name": "A Defending Trap 3",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 36,
@@ -6440,7 +6751,8 @@
             "name": "A Defending Trap 4",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 37,
@@ -6449,7 +6761,8 @@
             "name": "A Defending Trap 5",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 38,
@@ -6458,7 +6771,8 @@
             "name": "A Defending Trap 6",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 39,
@@ -6467,7 +6781,8 @@
             "name": "A Defending Camera",
             "author": "scr1m",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 40,
@@ -6476,7 +6791,8 @@
             "name": "A Defending Camera 2",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 41,
@@ -6485,7 +6801,8 @@
             "name": "A Defending Camera 3",
             "author": "Valorantaner",
             "description": "You need to jump off the window",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 42,
@@ -6494,7 +6811,8 @@
             "name": "B Defending Trap",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 43,
@@ -6503,7 +6821,8 @@
             "name": "B Defending Trap 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 44,
@@ -6512,7 +6831,8 @@
             "name": "B Defending Trap 3",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 45,
@@ -6521,7 +6841,8 @@
             "name": "B Defending Trap 4",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 46,
@@ -6530,7 +6851,8 @@
             "name": "B Defending Camera",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 47,
@@ -6539,7 +6861,8 @@
             "name": "B Defending Camera 2",
             "author": "Valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 48,
@@ -6548,7 +6871,8 @@
             "name": "B Defending Camera 3",
             "author": "Valorantaner",
             "description": "You need to place it while jumping",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 49,
@@ -6557,7 +6881,8 @@
             "name": "A Defending Turret",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 50,
@@ -6566,7 +6891,8 @@
             "name": "A Defending Bot",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 51,
@@ -6575,7 +6901,8 @@
             "name": "B Defending Turret",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 52,
@@ -6584,7 +6911,8 @@
             "name": "B Defending Bot",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 53,
@@ -6593,7 +6921,8 @@
             "name": "A Attacking",
             "author": "-",
             "description": "Good for planting at eco round",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 54,
@@ -6602,7 +6931,8 @@
             "name": "B Attacking",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 55,
@@ -6611,7 +6941,8 @@
             "name": "B Attacking 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 56,
@@ -6620,7 +6951,8 @@
             "name": "A Defending",
             "author": "Brush",
             "description": "Good for retaking",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 57,
@@ -6629,7 +6961,8 @@
             "name": "B Defending",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 58,
@@ -6638,7 +6971,8 @@
             "name": "A Defending Trap",
             "author": "SpicyCurry",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 59,
@@ -6647,7 +6981,8 @@
             "name": "A Defending Trap 2",
             "author": "SpicyCurry",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 60,
@@ -6656,7 +6991,8 @@
             "name": "A Defending Camera",
             "author": "SpicyCurry",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 61,
@@ -6665,7 +7001,8 @@
             "name": "B Defending Trap",
             "author": "SpicyCurry",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 62,
@@ -6674,7 +7011,8 @@
             "name": "B Defending Camera",
             "author": "SpicyCurry",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 63,
@@ -6683,7 +7021,8 @@
             "name": "A Defending Turret",
             "author": "C9 Keeoh",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 64,
@@ -6692,7 +7031,8 @@
             "name": "A Defending Bot",
             "author": "C9 Keeoh",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 65,
@@ -6701,7 +7041,8 @@
             "name": "B Defending Turret",
             "author": "C9 Keeoh",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 66,
@@ -6710,7 +7051,8 @@
             "name": "A Defending",
             "author": "Fraty",
             "description": "Boost yourself with that wall. It gives you good angles to watch entry",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 67,
@@ -6719,7 +7061,8 @@
             "name": "A Defending 2",
             "author": "Lightios",
             "description": "Your enemies will be forced to destroy at least 2 blocks to get in",
-            "is_premium": 1
+            "is_premium": 1,
+            "ability_id": 8
         },
         {
             "id": 68,
@@ -6728,7 +7071,8 @@
             "name": "Mid Attacking",
             "author": "Fraty",
             "description": "Boost yourself with that wall. Then you can jump on the marked boxes and get through the wall",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 70,
@@ -6737,7 +7081,8 @@
             "name": "B Defending",
             "author": "Fraty",
             "description": "You can see enemies' foot",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 71,
@@ -6746,7 +7091,8 @@
             "name": "B Defending 2",
             "author": "Fraty",
             "description": "Boosting yourself here you get good angle at entry",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 72,
@@ -6755,7 +7101,8 @@
             "name": "A Defending Camera",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 73,
@@ -6764,7 +7111,8 @@
             "name": "B Defending Trap",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 74,
@@ -6773,7 +7121,8 @@
             "name": "B Defending Camera",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 75,
@@ -6782,7 +7131,8 @@
             "name": "A Defending Turret",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 76,
@@ -6791,7 +7141,8 @@
             "name": "B Defending Turret",
             "author": "Hezitate",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 77,
@@ -6800,7 +7151,8 @@
             "name": "B Defending Bot",
             "author": "Hezitate",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 78,
@@ -6809,7 +7161,8 @@
             "name": "B Attacking",
             "author": "1 Tap Valorant",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 79,
@@ -6818,7 +7171,8 @@
             "name": "A Defending Trap",
             "author": "BoldKaos",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 80,
@@ -6827,7 +7181,8 @@
             "name": "A Defending Trap 2",
             "author": "BoldKaos",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 81,
@@ -6836,7 +7191,8 @@
             "name": "A Defending Trap 3",
             "author": "BoldKaos",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 82,
@@ -6845,7 +7201,8 @@
             "name": "B Defending Camera",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 83,
@@ -6854,7 +7211,8 @@
             "name": "B Defending Camera 2",
             "author": "BoldKaos",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 84,
@@ -6863,7 +7221,8 @@
             "name": "B Defending Trap",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 85,
@@ -6872,7 +7231,8 @@
             "name": "B Defending Trap 2",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 86,
@@ -6881,7 +7241,8 @@
             "name": "B Defending Trap 3",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 87,
@@ -6890,7 +7251,8 @@
             "name": "B Defending Trap 4",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 88,
@@ -6899,7 +7261,8 @@
             "name": "C Defending Camera",
             "author": "BoldKaos",
             "description": "(stand on the box)",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 89,
@@ -6908,7 +7271,8 @@
             "name": "C Defending Camera 2",
             "author": "lineups.fun",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 90,
@@ -6917,7 +7281,8 @@
             "name": "C Defending Trap",
             "author": "BoldKaos",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 91,
@@ -6926,7 +7291,8 @@
             "name": "C Defending Trap 2",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 92,
@@ -6935,7 +7301,8 @@
             "name": "C Defending Trap 3",
             "author": "Kemu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 93,
@@ -6944,7 +7311,8 @@
             "name": "C Defending Trap 4",
             "author": "Kemu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 94,
@@ -6953,7 +7321,8 @@
             "name": "A Defending Turret",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 95,
@@ -6962,7 +7331,8 @@
             "name": "A Defending Bot",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 96,
@@ -6971,7 +7341,8 @@
             "name": "B Defending Turret",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 97,
@@ -6980,7 +7351,8 @@
             "name": "B Defending Bot",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 98,
@@ -6989,7 +7361,8 @@
             "name": "C Defending Turret",
             "author": "Bjorlulu",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 99,
@@ -6998,7 +7371,8 @@
             "name": "A Attacking",
             "author": "Brush",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 100,
@@ -7007,7 +7381,8 @@
             "name": "A Attacking 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 101,
@@ -7016,7 +7391,8 @@
             "name": "B Attacking",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 102,
@@ -7025,7 +7401,8 @@
             "name": "C Attacking",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 103,
@@ -7034,7 +7411,8 @@
             "name": "C Attacking 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 104,
@@ -7043,7 +7421,8 @@
             "name": "A Defending",
             "author": "Brush",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 105,
@@ -7052,7 +7431,8 @@
             "name": "B Defending",
             "author": "Brush",
             "description": "Good with operator",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 106,
@@ -7061,7 +7441,8 @@
             "name": "C Defending",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 107,
@@ -7070,7 +7451,8 @@
             "name": "C Defending 2",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 108,
@@ -7079,7 +7461,8 @@
             "name": "A Defending Trap",
             "author": "Tyler Shanks",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 109,
@@ -7088,7 +7471,8 @@
             "name": "B Defending Trap",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 110,
@@ -7097,7 +7481,8 @@
             "name": "A Defending Camera",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 111,
@@ -7106,7 +7491,8 @@
             "name": "B Defending Camera",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 112,
@@ -7115,7 +7501,8 @@
             "name": "A Defending Turret",
             "author": "Frey",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 113,
@@ -7124,7 +7511,8 @@
             "name": "A Defending Bot",
             "author": "Frey",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 114,
@@ -7133,7 +7521,8 @@
             "name": "B Defending Turret",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 115,
@@ -7142,7 +7531,8 @@
             "name": "B Defending Bot",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 116,
@@ -7151,7 +7541,8 @@
             "name": "A Defending",
             "author": "SkillCapped Valorant Tips Tricks and Guides",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 117,
@@ -7160,7 +7551,8 @@
             "name": "Mid Defending",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 118,
@@ -7169,7 +7561,8 @@
             "name": "B Defending",
             "author": "Lightios",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 119,
@@ -7178,7 +7571,8 @@
             "name": "B Defending 2",
             "author": "SkillCapped Valorant Tips Tricks and Guides",
             "description": "Jump back, then put the wall. You'll get good angle at entries",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 120,
@@ -7187,7 +7581,8 @@
             "name": "A Attacking",
             "author": "SkillCapped Valorant Tips Tricks and Guides",
             "description": "Boost yourself and get to the pinged spot to surprise enemies",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 121,
@@ -7196,7 +7591,8 @@
             "name": "Mid Attacking",
             "author": "SkillCapped Valorant Tips Tricks and Guides",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 122,
@@ -7205,7 +7601,8 @@
             "name": "B Attacking",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 123,
@@ -7214,7 +7611,8 @@
             "name": "A Defending Camera",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 124,
@@ -7223,7 +7621,8 @@
             "name": "A Defending Trap",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 125,
@@ -7232,7 +7631,8 @@
             "name": "A Defending Trap 2",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 126,
@@ -7241,7 +7641,8 @@
             "name": "A Defending Trap 3",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 127,
@@ -7250,7 +7651,8 @@
             "name": "A Defending Trap 4",
             "author": "valorantaner",
             "description": "Warning: it's hard",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 128,
@@ -7259,7 +7661,8 @@
             "name": "B Defending Trap",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 129,
@@ -7268,7 +7671,8 @@
             "name": "B Defending Trap 2",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 130,
@@ -7277,7 +7681,8 @@
             "name": "B Defending Camera",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 131,
@@ -7286,7 +7691,8 @@
             "name": "A Defending Turret",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 132,
@@ -7295,7 +7701,8 @@
             "name": "B Defending Turret",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 133,
@@ -7304,7 +7711,8 @@
             "name": "A Defending Bot",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 134,
@@ -7313,7 +7721,8 @@
             "name": "B Defending Bot",
             "author": "CaMbCaMb",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 135,
@@ -7322,7 +7731,8 @@
             "name": "A Attacking",
             "author": "FlowAscending",
             "description": "You can see the defusuers",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 136,
@@ -7331,7 +7741,8 @@
             "name": "A Attacking 2",
             "author": "Fraty",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 137,
@@ -7340,7 +7751,8 @@
             "name": "B Attacking",
             "author": "Fraty",
             "description": "Keep some place to plant the spike",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 138,
@@ -7349,7 +7761,8 @@
             "name": "A Defending",
             "author": "Fraty",
             "description": "Boost an ally that can get on this box (Jett, Omen, Raze etc.) so they can see the enemies trough the hole in this wall",
-            "is_premium": 1
+            "is_premium": 1,
+            "ability_id": 8
         },
         {
             "id": 139,
@@ -7358,7 +7771,8 @@
             "name": "B Defending",
             "author": "FlowAscending",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 140,
@@ -7367,7 +7781,8 @@
             "name": "B Defending 2",
             "author": "Fraty",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 8
         },
         {
             "id": 141,
@@ -7376,7 +7791,8 @@
             "name": "A Defending Trap",
             "author": "Eevux",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 142,
@@ -7385,7 +7801,8 @@
             "name": "A Defending Camera",
             "author": "Peak",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 143,
@@ -7394,7 +7811,8 @@
             "name": "B Defending Trap",
             "author": "-",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 144,
@@ -7403,7 +7821,8 @@
             "name": "B Defending Camera",
             "author": "",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 145,
@@ -7412,7 +7831,8 @@
             "name": "A Defending Turret",
             "author": "Gamist",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 146,
@@ -7421,7 +7841,8 @@
             "name": "A Defending Bot",
             "author": "Gamist",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 147,
@@ -7430,7 +7851,8 @@
             "name": "B Defending Turret",
             "author": "Gamist",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 148,
@@ -7439,7 +7861,8 @@
             "name": "B Defending Bot",
             "author": "Gamist",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 4
         },
         {
             "id": 149,
@@ -7448,7 +7871,8 @@
             "name": "B Defending Trap",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 150,
@@ -7457,7 +7881,8 @@
             "name": "B Defending Trap 2",
             "author": "valorantaner",
             "description": "",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 151,
@@ -7466,7 +7891,8 @@
             "name": "B Defending Trap 3",
             "author": "valorantaner",
             "description": "Third stair with cage",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 152,
@@ -7475,7 +7901,8 @@
             "name": "B Defending Camera",
             "author": "valorantaner",
             "description": "Jump to place it higher",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 14
         },
         {
             "id": 153,
@@ -7484,7 +7911,8 @@
             "name": "A Defending Wall",
             "author": "",
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 154,
@@ -7493,7 +7921,8 @@
             "name": "A Defending Rose",
             "author": "Lightios",
             "description": "Stand on haven (look at minimap). Right click and jump to place it",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 155,
@@ -7502,7 +7931,8 @@
             "name": "A Defending Rose 2",
             "author": null,
             "description": "You wont be blinded staying behind that",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 156,
@@ -7511,7 +7941,8 @@
             "name": "B Defending Wall",
             "author": "",
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 158,
@@ -7520,7 +7951,8 @@
             "name": "B Defending Rose",
             "author": "valoranter",
             "description": "Hide it in leaves",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 159,
@@ -7529,7 +7961,8 @@
             "name": "B Defending Thorns",
             "author": null,
             "description": "Place it by standing in front on the wall and aiming there",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 160,
@@ -7538,7 +7971,8 @@
             "name": "B Defending Thorns 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 161,
@@ -7547,7 +7981,8 @@
             "name": "B Defending Wall 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 162,
@@ -7556,7 +7991,8 @@
             "name": "B Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 163,
@@ -7565,7 +8001,8 @@
             "name": "B Defending Thorns",
             "author": null,
             "description": "Crouch next to the wall and aim like this. Place it in both holes on this site (left and right)",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 164,
@@ -7574,7 +8011,8 @@
             "name": "B Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 165,
@@ -7583,7 +8021,8 @@
             "name": "B Defending Rose",
             "author": null,
             "description": "Stand on the wall on the right side of site. You need to jump to place it right here",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 166,
@@ -7592,7 +8031,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 167,
@@ -7601,7 +8041,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 168,
@@ -7610,7 +8051,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 169,
@@ -7619,7 +8061,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 170,
@@ -7628,7 +8071,8 @@
             "name": "A Defending Thorns 2",
             "author": null,
             "description": "Crouch and aim at this corner",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 171,
@@ -7637,7 +8081,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 172,
@@ -7646,7 +8091,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 173,
@@ -7655,7 +8101,8 @@
             "name": "B Defending Rose",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 174,
@@ -7664,7 +8111,8 @@
             "name": "B Defending Rose 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 175,
@@ -7673,25 +8121,28 @@
             "name": "B Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 176,
             "map_id": 5,
             "agent_id": 12,
-            "name": "A Defending Thorns",
+            "name": "B Defending Thorns",
             "author": null,
             "description": "Crouch and aim at this corner",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 177,
             "map_id": 5,
             "agent_id": 12,
-            "name": "A Defending Thorns 2",
+            "name": "B Defending Thorns 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 178,
@@ -7700,7 +8151,8 @@
             "name": "C Defending Rose",
             "author": null,
             "description": "Stand on the box and jump to place it",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 179,
@@ -7709,7 +8161,8 @@
             "name": "C Defending Rose 2",
             "author": null,
             "description": "Right click",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 180,
@@ -7718,7 +8171,8 @@
             "name": "C Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 181,
@@ -7727,7 +8181,8 @@
             "name": "C Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 182,
@@ -7736,7 +8191,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": "Stand in front of this wall, aligned to the box. Aim at bottom left corner of this brick. Right click",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 183,
@@ -7745,7 +8201,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 184,
@@ -7754,7 +8211,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 185,
@@ -7763,7 +8221,8 @@
             "name": "A Defending Thorns 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 186,
@@ -7772,7 +8231,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 187,
@@ -7781,7 +8241,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": "Jump to place it",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 188,
@@ -7790,7 +8251,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 189,
@@ -7799,7 +8261,8 @@
             "name": "C Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 190,
@@ -7808,7 +8271,8 @@
             "name": "C Defending Wall 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 191,
@@ -7817,7 +8281,8 @@
             "name": "C Defending Rose",
             "author": null,
             "description": "Jump to place it",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 192,
@@ -7826,7 +8291,8 @@
             "name": "C Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 193,
@@ -7835,7 +8301,8 @@
             "name": "C Defending Thorns 2",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 194,
@@ -7844,7 +8311,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 195,
@@ -7853,7 +8321,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": "It requires you to jump on the café",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 196,
@@ -7862,7 +8331,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 197,
@@ -7871,7 +8341,8 @@
             "name": "B Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 198,
@@ -7880,7 +8351,8 @@
             "name": "B Defending Rose",
             "author": null,
             "description": "It requires you to jump on the café",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 199,
@@ -7889,7 +8361,8 @@
             "name": "B Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 200,
@@ -7898,7 +8371,8 @@
             "name": "B Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 201,
@@ -7907,7 +8381,8 @@
             "name": "B Defending Thorns 2",
             "author": null,
             "description": "Go to this corner, jump and throw it",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 202,
@@ -7916,7 +8391,8 @@
             "name": "B Defending Rose",
             "author": null,
             "description": "It doesn't flash allies on mid",
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 203,
@@ -7925,7 +8401,8 @@
             "name": "B Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 204,
@@ -7934,7 +8411,8 @@
             "name": "A Defending Wall",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 205,
@@ -7943,7 +8421,8 @@
             "name": "A Defending Rose",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         },
         {
             "id": 206,
@@ -7952,7 +8431,8 @@
             "name": "A Defending Thorns",
             "author": null,
             "description": null,
-            "is_premium": 0
+            "is_premium": 0,
+            "ability_id": 19
         }
     ]
 }
